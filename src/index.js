@@ -9,7 +9,6 @@ import 'bootstrap/dist/css/bootstrap.css';
 function App() {
 	// Use state to keep track of the final calculated value
 	const [finalValue, setFinalValue] = useState('');
-
 	return (
 		<div className='container mt-5'>
 			<div className='card'>
